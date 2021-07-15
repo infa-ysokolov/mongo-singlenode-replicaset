@@ -2,9 +2,6 @@
 ````
  version: '2.2'
 
- volumes:
-   mongosdata:
-
  services:
    mdm-mongo:
      image: mongo:4.2
